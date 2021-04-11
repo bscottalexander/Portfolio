@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.scss"],"names":[],"mappings":"AAAA,gBAGE,WAAA,CACA,UAAA,CACA,SAAA,CACA,QAAA","file":"main.6383c291.chunk.css","sourcesContent":["html,\nbody,\n#root {\n  height: 100%;\n  width: 100%;\n  padding: 0px;\n  margin: 0px;\n}\n"]}
