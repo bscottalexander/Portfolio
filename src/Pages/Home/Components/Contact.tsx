@@ -4,6 +4,7 @@ import MuiTypography from "@material-ui/core/Typography";
 import IconButton from "@material-ui/core/IconButton";
 import LinkedinIcon from "@material-ui/icons/LinkedIn";
 import GithubIcon from "@material-ui/icons/GitHub";
+import DescriptionIcon from "@material-ui/icons/Description";
 
 const Container = styled.div``;
 const IconContainer = styled.div`
@@ -25,6 +26,9 @@ const Contact = () => {
         </IconButton>
         <IconButton component="a" href="https://github.com/bscottalexander">
           <GithubIcon />
+        </IconButton>
+        <IconButton component="a" href={process.env.PUBLIC_URL + "/resume.pdf"}>
+          <DescriptionIcon />
         </IconButton>
       </IconContainer>
     </Container>

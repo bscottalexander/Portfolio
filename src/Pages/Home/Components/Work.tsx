@@ -31,6 +31,10 @@ const Work = () => {
           title="Code Refractor"
           link="https://github.com/bscottalexander/Hw1"
         />
+        <ProjectCard
+          title="Vibe Check"
+          link="https://github.com/project-one-group-three/vibe-check"
+        />
       </Grid>
     </Container>
   );
