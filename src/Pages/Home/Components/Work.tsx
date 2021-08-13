@@ -35,6 +35,10 @@ const Work = () => {
           title="Vibe Check"
           link="https://github.com/project-one-group-three/vibe-check"
         />
+        <ProjectCard
+          title="Employee Tracker"
+          link="https://github.com/bscottalexander/Employee-Tracker"
+        />
       </Grid>
     </Container>
   );
