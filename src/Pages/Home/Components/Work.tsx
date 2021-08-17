@@ -39,6 +39,14 @@ const Work = () => {
           title="Employee Tracker"
           link="https://github.com/bscottalexander/Employee-Tracker"
         />
+        <ProjectCard
+          title="Team Profile Generator"
+          link="https://github.com/bscottalexander/team-profile-generator"
+        />
+        <ProjectCard
+          title="Note Taker"
+          link="https://github.com/bscottalexander/note-taker"
+        />
       </Grid>
     </Container>
   );
